@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRj1nmf6mfD2MX4N3IendOGf3F48hEX8rxgL3XjZ/gkI6zc0GaU1PXQ7IbVuO8oyh8bAvtpEhTUKFXy77V19cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\handson4\\handson4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.0\\swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
